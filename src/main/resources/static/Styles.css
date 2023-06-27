@@ -1,0 +1,28 @@
+#content{
+    display: grid;
+    grid-template-columns: 700px 300px;
+    grid-template-rows: 700px;
+    justify-content: center;
+}
+#info{
+    display: grid;
+    grid-template-rows: 500px 100px 100px;
+    border: 1px solid black;
+}
+#tools{
+    display: grid;
+    grid-template-rows: 500px 100px 100px;
+    border: 1px solid black;
+}
+#image-container{
+    height: auto;
+    width: auto;
+
+}
+#rates{
+    height: auto;
+}
+button{
+    width: auto;
+    height: auto;
+}
